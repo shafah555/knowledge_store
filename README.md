@@ -106,25 +106,25 @@ lib/
 ---
 
 ## 📦 Dependencies
-
+```
 -dependencies:
-  -flutter:
-    -sdk: flutter
-  -syncfusion_flutter_pdfviewer: ^20.3.47
+-flutter:
+-sdk: flutter
+-syncfusion_flutter_pdfviewer: ^20.3.47
 
-  -cloud_firestore: ^5.0.0
-  -firebase_core: ^3.6.0
-  -firebase_auth: ^5.3.1
- - random_string: ^2.3.1
-  -shared_preferences: ^2.3.3
-  -image_picker: ^1.0.0
-  -firebase_storage: ^12.4.9
- - curved_navigation_bar: ^1.0.6
-  -cupertino_icons: ^1.0.8
-  -file_picker: ^10.2.0
-  -permission_handler: ^11.0.1
-  -http: ^0.13.6
-
+-cloud_firestore: ^5.0.0
+-firebase_core: ^3.6.0
+-firebase_auth: ^5.3.1
+-random_string: ^2.3.1
+-shared_preferences: ^2.3.3
+-image_picker: ^1.0.0
+-firebase_storage: ^12.4.9
+-curved_navigation_bar: ^1.0.6
+-cupertino_icons: ^1.0.8
+-file_picker: ^10.2.0
+-permission_handler: ^11.0.1
+-http: ^0.13.6
+```
 
 ---
 
