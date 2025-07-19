@@ -78,7 +78,7 @@ lib/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/ebooks.git
+   git clone https://github.com/shafah555/knowledge_store.git
    cd ebooks
    ```
 
