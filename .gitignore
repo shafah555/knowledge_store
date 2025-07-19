@@ -1,0 +1,75 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Pods/
+android/.gradle/
+android/app/build/
+*.iml
+
+# IDEs
+.idea/
+.vscode/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Additional exclusions for large files and build artifacts
+*.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+
+# Large media files (if you want to exclude them)
+# *.pdf
+# *.png
+# *.jpg
+# *.jpeg
+# *.webp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
