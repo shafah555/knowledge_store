@@ -293,5 +293,5 @@ If you encounter any issues not covered in this manual:
 
 *This manual covers the basic functionality of the Ebooks App. For advanced features or technical support, please contact the development team.*
 
-**Last Updated**: [Current Date]
-**Version**: [App Version]
+**Last Updated**: [19 July 2025]
+**Version**: [1.0.0]
