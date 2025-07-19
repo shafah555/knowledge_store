@@ -14,13 +14,11 @@ A cross-platform eBook reader application built with Flutter. This app allows us
 - **Read eBooks:** Open and read PDF books directly within the app.
 - **Favorites:** Mark books as favorites for quick access.
 - **User Authentication:** Sign up, log in, and manage your profile.
-- **Order Books:** Place orders for books (if enabled).
 - **Onboarding:** Smooth onboarding experience for new users.
 
 ### Admin Features
 - **Admin Login:** Secure admin authentication.
-- **Add/Edit Books:** Add new books or edit existing book details.
-- **View All Orders:** Manage and view all user orders.
+- **Add/Edit/Delete Books:** Add new books or edit/delete existing book details.
 - **Book Management:** See a list of all books and perform admin actions.
 
 ### Technical Features
@@ -101,7 +99,9 @@ images/            # Book covers and other images
 
 ## 📸 Screenshots
 
-_Add screenshots of your app here to showcase the UI and features._
+<img width="995" height="1274" alt="book1" src="https://github.com/user-attachments/assets/89fbba58-4800-4508-9246-5dc65617a442" />
+
+
 
 ---
 
