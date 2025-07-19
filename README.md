@@ -33,15 +33,35 @@ A cross-platform eBook reader application built with Flutter. This app allows us
 
 ```
 lib/
-  Admin/           # Admin-specific screens and logic
-  pages/           # User-facing pages (home, login, signup, etc.)
-  services/        # Firebase, database, and shared preferences services
-  widget/          # Reusable widgets
-  firebase_options.dart  # Firebase configuration
-  main.dart        # App entry point
-assets/
-  pdf/             # PDF files for eBooks
-images/            # Book covers and other images
+├── Admin/
+│   ├── add_book.dart
+│   ├── admin_login.dart
+│   ├── all_book_list.dart
+│   ├── all_order.dart
+│   ├── edit_book.dart
+│   └── home_admin.dart
+├── firebase_options.dart
+├── main.dart
+├── pages/
+│   ├── all_books_page.dart
+│   ├── book_detail.dart
+│   ├── bottomnav.dart
+│   ├── category_books.dart
+│   ├── favorite.dart
+│   ├── home.dart
+│   ├── login.dart
+│   ├── onboarding.dart
+│   ├── order.dart
+│   ├── pdf_viewer.dart
+│   ├── profile.dart
+│   └── signup.dart
+├── services/
+│   ├── auth.dart
+│   ├── constant.dart
+│   ├── database.dart
+│   └── shared_pref.dart
+└── widget/
+    └── support_widget.dart
 ```
 
 ---
