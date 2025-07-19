@@ -1,6 +1,6 @@
 
 
-# 📚 eBooks Flutter App
+# 📚 Knowledge Store Flutter App
 
 A cross-platform eBook reader application built with Flutter. This app allows users to browse, read, and manage a collection of eBooks, with features for both regular users and administrators.
 
