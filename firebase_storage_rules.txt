@@ -1,0 +1,28 @@
+# Firebase Storage Rules for Ebook App
+# Copy these rules to your Firebase Console > Storage > Rules
+
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Allow read access to all files
+    match /{allPaths=**} {
+      allow read: if true;
+    }
+    
+    // Allow write access to bookImages and bookPdfs folders
+    match /bookImages/{imageId} {
+      allow write: if request.resource.size < 10 * 1024 * 1024 // 10MB limit
+                   && request.resource.contentType.matches('image/.*');
+    }
+    
+    match /bookPdfs/{pdfId} {
+      allow write: if request.resource.size < 50 * 1024 * 1024 // 50MB limit
+                   && request.resource.contentType == 'application/pdf';
+    }
+    
+    // Allow test uploads for connection testing
+    match /test/{fileName} {
+      allow write: if request.resource.size < 1024; // 1KB limit for test files
+    }
+  }
+} 
