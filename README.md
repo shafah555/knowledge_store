@@ -117,25 +117,6 @@ lib/
 
 ---
 
-## 📸 Screenshots
-
-<img width="995" height="1274" alt="book1" src="https://github.com/user-attachments/assets/89fbba58-4800-4508-9246-5dc65617a442" />
-<img width="988" height="1299" alt="book2" src="https://github.com/user-attachments/assets/8b7d4739-4e45-4801-9f0b-e9f4ac2d25b2" />
-<img width="1002" height="1305" alt="book3" src="https://github.com/user-attachments/assets/e6642c4e-8542-4130-bba3-2267172dabc2" />
-<img width="1003" height="1297" alt="book4" src="https://github.com/user-attachments/assets/4c2f55e6-0f5c-400a-bc4e-0c51f3334be1" />
-<img width="992" height="1293" alt="book5" src="https://github.com/user-attachments/assets/e65d0652-a904-4d8a-9ebf-7e6a9da32ad3" />
-<img width="1003" height="1295" alt="book6" src="https://github.com/user-attachments/assets/bca42883-96c9-438a-8d76-d4f60fcd9086" />
-<img width="1003" height="1289" alt="book7" src="https://github.com/user-attachments/assets/360460d7-678b-4677-a071-076ebdcecdfb" />
-<img width="1004" height="1289" alt="book8" src="https://github.com/user-attachments/assets/ade93344-5f91-4982-8f89-8565217d77c5" />
-<img width="1001" height="1292" alt="book9" src="https://github.com/user-attachments/assets/ca8cdd3b-5c99-4605-acbc-e556b85c9fc9" />
-<img width="996" height="1295" alt="book91" src="https://github.com/user-attachments/assets/8e531632-aee6-4d4a-8a8b-d843bf2e5d10" />
-<img width="1004" height="1294" alt="book92" src="https://github.com/user-attachments/assets/ecf8e90e-b6bd-4fc3-a7a7-d3ebd448b9c2" />
-<img width="993" height="1292" alt="book93" src="https://github.com/user-attachments/assets/4c02e8f8-5163-4daf-ad33-e78dc11d2ff2" />
-<img width="999" height="1305" alt="book94" src="https://github.com/user-attachments/assets/233e83f2-422e-4ea3-976b-239717a08754" />
-
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please open issues and submit pull requests for improvements or bug fixes.
