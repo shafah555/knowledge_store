@@ -40,7 +40,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/shafah555/knowledge_store.git>
 cd ebooks
 ```
 
@@ -101,14 +101,14 @@ The project uses the following key dependencies:
 ### 2. Android Configuration
 1. In Firebase Console, add Android app:
    - Package name: `com.example.ebooks`
-   - App nickname: "Ebooks App"
+   - App nickname: "Knowledge Store App"
 2. Download `google-services.json`
 3. Place it in `android/app/google-services.json`
 
 ### 3. iOS Configuration
 1. In Firebase Console, add iOS app:
    - Bundle ID: `com.example.ebooks`
-   - App nickname: "Ebooks App"
+   - App nickname: "Knowledge Store App"
 2. Download `GoogleService-Info.plist`
 3. Place it in `ios/Runner/GoogleService-Info.plist`
 
@@ -504,8 +504,6 @@ flutter test test/widget_test.dart
 - **Syncfusion Support**: [Syncfusion Support]
 
 ---
-
-*This build manual covers the essential steps for building and deploying the Ebooks App. For specific issues or advanced configurations, refer to the official documentation or contact the development team.*
 
 **Last Updated**: December 2024
 **Version**: 1.0.0 
